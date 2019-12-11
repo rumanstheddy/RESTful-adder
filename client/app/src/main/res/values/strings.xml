@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RESTful adder</string>
+    <string name="num1_hint">Enter first number</string>
+    <string name="sign_plus">+</string>
+    <string name="sign_minus">-</string>
+    <string name="sign_multiply">*</string>
+    <string name="sign_divide">/</string>
+    <string name="num2_hint">enter second number</string>
+</resources>
